@@ -1,5 +1,5 @@
 <h1 align="center">Hello! I'm Priyanshu Paikra</h1>
-<h3 align="center">A passionate ML Engineer and software developer</h3>
+<h3 align="center">Aspire to be ML Engineer and software developer</h3>
 
 - 📫 How to reach me **priyanshu.paikra@gmail.com**
 
