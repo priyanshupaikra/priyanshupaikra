@@ -14,6 +14,11 @@ I will graduate from GGSIPU, USICT in 2026 with a degree in Information Technolo
 <p align="left">
   <a href="https://twitter.com/priyanshupyr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="priyanshupyr" height="30" width="40" /></a>
 <a href="https://instagram.com/priyanshupyr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="priyanshupyr" height="30" width="40" /></a>
+<a href="https://twitter.com/priyanshupyr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="priyanshupyr" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/priyanshupaikra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="priyanshupaikra" height="30" width="40" /></a>
+<a href="https://instagram.com/priyanshupyr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="priyanshupyr" height="30" width="40" /></a>
+<a href="https://hashnode.com/priyanshupaikra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="priyanshupaikra" height="30" width="40" /></a>
+<a href="https://medium.com/priyanshupaikra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="priyanshupaikra" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
