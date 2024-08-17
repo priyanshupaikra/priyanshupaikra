@@ -2,9 +2,8 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hello!👋+I'm+Priyanshu+Paikra;+I'm+Pedro+Muniz!;" />
 </h1>
 <h3 align="center">Aspire to be ML Engineer and software developer</h3>
-<h3 align="center">Aspire to be ML Engineer and software developer</h3>
 <h2 align="left"> I'm B. Tech Student in Information Technology.
-At GGSIPU, USICT, I learned about programing and Data Structure. I've also done varous courses from coursera, these courses helps me on abstraction and design in computing.
+At GGSIPU, USICT, I learned about programing and Data Structure. I've also done various courses from coursera, these courses helps me on abstraction and design in computing.
 I currently work on my Generative AI Project and ML Model Training, developing a more accurate and equitable I learn things from different youtube channels.
 I will graduate from GGSIPU, USICT in 2026 with a degree in Information Technology.
 </h2>
