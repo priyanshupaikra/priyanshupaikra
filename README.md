@@ -9,7 +9,6 @@ I will graduate from GGSIPU, USICT in 2026 with a degree in Information Technolo
 </p>
 
 - 📫 How to reach me **priyanshu.paikra@gmail.com**
--     Mediium Page **https://medium.com/@priyanshu.paikra**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
