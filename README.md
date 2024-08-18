@@ -4,7 +4,7 @@
 <h3 align="center">Aspire to be ML Engineer and software developer</h3>
 <p align="left" style="font-family:Consolas;"> I'm B. Tech Student in Information Technology.
 At GGSIPU, USICT, I learned about programing and Data Structure. I've also done various courses from coursera, these courses helps me on abstraction and design in computing.
-I currently work on my Generative AI Project and ML Model Training. Developing a more accurate and equitable I learn things from different youtube channels.
+I currently work on my Generative AI Project and ML Model Training. Developing a more accurate and equitable. I learn things from different youtube channels.
 I will graduate from GGSIPU, USICT in 2026 with a degree in Information Technology.
 </p>
 
