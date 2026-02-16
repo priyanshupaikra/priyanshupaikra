@@ -183,7 +183,6 @@ class PriyanshuPaikra:
 <div align="center">
 
 ```python
-# life philosophy
 import this
 
 """
