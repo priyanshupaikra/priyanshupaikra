@@ -9,7 +9,6 @@
 
 <br/><br/>
 
-*`>>> zen_mode = True`*  
 *`>>> chill_level = float('inf')`*  
 *`>>> favorite_language = "Python 🐍"`*
 
