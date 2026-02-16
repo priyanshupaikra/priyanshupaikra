@@ -172,9 +172,9 @@ class PriyanshuPaikra:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/priyanshupaikra)
 [![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:priyanshu.paikra@gmail.com)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/priyanshupyr)
-[![Hashnode](https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://priyanshupaikra12.hashnode.dev/)
+[![Hashnode](https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://@priyanshupyr.hashnode.dev/)
 [![Medium](https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@priyanshu.paikra)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/priyanshupaikra/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/scikill/)
 
 </div>
 
@@ -193,7 +193,7 @@ simple is better than complex.
 now is better than never.
 """
 
-# hanks for scrolling! 🐍
+# thanks for scrolling! 🐍
 ```
 
 <img src="https://komarev.com/ghpvc/?username=priyanshupaikra&color=3776AB&style=for-the-badge&label=Profile+Views" />
