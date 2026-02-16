@@ -161,13 +161,6 @@ class PriyanshuPaikra:
 
 ---
 
-### 🏆 Achievements & Vibes
-
-- 🏅 Selected for **Regional Level Smart India Hackathon 2025**
-- 💻 Solved **400+** DSA problems across LeetCode, CodeChef, GFG
-- 🎓 B.Tech IT @ **GGSIPU, USICT** — 8.6 CGPA
-- 🏢 Python Developer Intern @ **Innobyte Services** (Jul–Sep 2025)
-- 📜 Certified: *UX Design · Python for Financial Analysis · Cloud Monitoring · Gemini for Data Scientists*
 - 🧗 When not coding: Cooking, Football, Calisthenics, Climbing, Adventure, Writing
 
 ---
@@ -190,17 +183,17 @@ class PriyanshuPaikra:
 <div align="center">
 
 ```python
-# Life philosophy
-import this  # The Zen of Python
+# life philosophy
+import this
 
 """
-Beautiful is better than ugly.
-Explicit is better than implicit.
-Simple is better than complex.
-Now is better than never.
+beautiful is better than ugly.
+explicit is better than implicit.
+simple is better than complex.
+now is better than never.
 """
 
-# EOF — Thanks for scrolling! 🐍✨
+# hanks for scrolling! 🐍
 ```
 
 <img src="https://komarev.com/ghpvc/?username=priyanshupaikra&color=3776AB&style=for-the-badge&label=Profile+Views" />
