@@ -161,7 +161,7 @@ class PriyanshuPaikra:
 
 ---
 
-- 🧗 When not coding: Cooking, Football, Calisthenics, Climbing, Adventure, Writing
+- 🧗 When not coding: cooking, playing football, calisthenics, adventure, writing, painting, sketching, reading, learning
 
 ---
 
