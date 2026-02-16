@@ -39,14 +39,14 @@ class PriyanshuPaikra:
 
 ---
 
-### 🐍 Python is King — Everything Else is a Module
+### 🐍 python — everything else is a Module
 
 <div align="center">
 
-#### 👑 The Crown Jewel
+#### 👑
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 
-#### ⚔️ Python Frameworks — The Royal Court
+#### ⚔️ python frameworks — the royal court
 [![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)](https://www.djangoproject.com/)
 [![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com/)
 [![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)](https://flask.palletsprojects.com/)
@@ -56,7 +56,7 @@ class PriyanshuPaikra:
 
 ---
 
-### 🧠 ML / AI — Teaching Machines to Think
+### 🧠 ML / AI — learning and teaching machine to think
 
 <div align="center">
 
@@ -76,7 +76,7 @@ class PriyanshuPaikra:
 
 ---
 
-### ☁️ DevOps & Cloud — Shipping Code, Not Excuses
+### ☁️ DevOps & Cloud — shipping code, not excuses
 
 <div align="center">
 
@@ -93,19 +93,15 @@ class PriyanshuPaikra:
 
 ---
 
-### 🌐 Web & Full-Stack — Learning Never Stops 😄
+### 🌐 Learning Never Stops 😄
 
 <div align="center">
 
-*`>>> status = "Python backend dev exploring the JS universe 🚀"`*
+*`>>> status = "python backend dev exploring the JS universe 🚀"`*
 
-#### 🟢 MERN / MEAN Stack — *import in progress...*
+#### 🟢 React/JavaScript — *import in progress...*
 
-[![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
-[![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)](https://expressjs.com/)
 [![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://react.dev/)
-[![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)](https://angular.dev/)
-[![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)](https://nodejs.org/)
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 
 > *"I build backends in Python, but hey — a good developer speaks multiple languages 😄"*
